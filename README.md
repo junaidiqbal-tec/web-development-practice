@@ -1,23 +1,29 @@
-# web-development-practice# Web Development Practice
+# Web Development Practice
 
-Welcome to my Web Development Practice repository.
+Welcome!
 
-This repository documents my journey of learning web development from scratch. Instead of rushing through projects, I am focusing on understanding one concept at a time and making meaningful progress every day.
+This repository documents my journey of learning web development from scratch.
 
-## Learning Roadmap
+## About This Repository
 
-### ✅ Day 1 – HTML Basics
+Instead of rushing through tutorials, I am learning one concept at a time. Every lesson includes notes, practice files, and meaningful Git commits.
 
-**Topics Learned**
-- What HTML stands for (HyperText Markup Language)
-- What HTML is used for
-- What a tag is
-- Opening and closing tags
-- Creating my first heading using the `<h1>` tag
+## Progress
 
-**Practice**
-- Created my first HTML page with a heading.
+### HTML
+- [x] HTML Basics
+- [ ] Document Structure
+- [ ] Headings
+- [ ] Paragraphs
+- [ ] Lists
+- [ ] Images
+- [ ] Links
+- [ ] Tables
+- [ ] Forms
+- [ ] Semantic HTML
 
----
+### CSS
+- [ ] Coming Soon
 
-More lessons will be added as I continue learning.
+### JavaScript
+- [ ] Coming Soon
